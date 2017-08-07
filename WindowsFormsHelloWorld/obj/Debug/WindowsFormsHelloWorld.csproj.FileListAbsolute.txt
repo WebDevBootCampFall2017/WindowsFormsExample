@@ -1,0 +1,9 @@
+c:\users\namin\documents\visual studio 2017\Projects\WindowsFormsHelloWorld\WindowsFormsHelloWorld\bin\Debug\WindowsFormsHelloWorld.exe.config
+c:\users\namin\documents\visual studio 2017\Projects\WindowsFormsHelloWorld\WindowsFormsHelloWorld\bin\Debug\WindowsFormsHelloWorld.exe
+c:\users\namin\documents\visual studio 2017\Projects\WindowsFormsHelloWorld\WindowsFormsHelloWorld\bin\Debug\WindowsFormsHelloWorld.pdb
+c:\users\namin\documents\visual studio 2017\Projects\WindowsFormsHelloWorld\WindowsFormsHelloWorld\obj\Debug\WindowsFormsHelloWorld.csprojResolveAssemblyReference.cache
+c:\users\namin\documents\visual studio 2017\Projects\WindowsFormsHelloWorld\WindowsFormsHelloWorld\obj\Debug\WindowsFormsHelloWorld.Form1.resources
+c:\users\namin\documents\visual studio 2017\Projects\WindowsFormsHelloWorld\WindowsFormsHelloWorld\obj\Debug\WindowsFormsHelloWorld.Properties.Resources.resources
+c:\users\namin\documents\visual studio 2017\Projects\WindowsFormsHelloWorld\WindowsFormsHelloWorld\obj\Debug\WindowsFormsHelloWorld.csproj.GenerateResource.Cache
+c:\users\namin\documents\visual studio 2017\Projects\WindowsFormsHelloWorld\WindowsFormsHelloWorld\obj\Debug\WindowsFormsHelloWorld.exe
+c:\users\namin\documents\visual studio 2017\Projects\WindowsFormsHelloWorld\WindowsFormsHelloWorld\obj\Debug\WindowsFormsHelloWorld.pdb

@@ -1,0 +1,8 @@
+c:\users\namin\documents\visual studio 2017\Projects\WindowsFormsHelloWorld\TextChanging\bin\Debug\TextChanging.exe.config
+c:\users\namin\documents\visual studio 2017\Projects\WindowsFormsHelloWorld\TextChanging\bin\Debug\TextChanging.exe
+c:\users\namin\documents\visual studio 2017\Projects\WindowsFormsHelloWorld\TextChanging\bin\Debug\TextChanging.pdb
+c:\users\namin\documents\visual studio 2017\Projects\WindowsFormsHelloWorld\TextChanging\obj\Debug\TextChanging.Form1.resources
+c:\users\namin\documents\visual studio 2017\Projects\WindowsFormsHelloWorld\TextChanging\obj\Debug\TextChanging.Properties.Resources.resources
+c:\users\namin\documents\visual studio 2017\Projects\WindowsFormsHelloWorld\TextChanging\obj\Debug\TextChanging.csproj.GenerateResource.Cache
+c:\users\namin\documents\visual studio 2017\Projects\WindowsFormsHelloWorld\TextChanging\obj\Debug\TextChanging.exe
+c:\users\namin\documents\visual studio 2017\Projects\WindowsFormsHelloWorld\TextChanging\obj\Debug\TextChanging.pdb
